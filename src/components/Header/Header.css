@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+}
+.header img {
+    margin-right: 40%;
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+}
+.header ul  li{
+    list-style: none;
+    float: left;
+    padding: 10px 20px;
+}
+.header ul li a {
+    text-decoration: none;
+    color: #333;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 18px;
+}

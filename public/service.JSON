@@ -1,0 +1,62 @@
+[
+    {
+        "key": "1",
+        "name": "Play Time",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-2.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "2",
+        "name": "Daycare",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-3.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "3",
+        "name": "Learning",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-1.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "4",
+        "name": "Outdoors",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-4.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "5",
+        "name": "Healthy Meals",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-5.png",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "6",
+        "name": "Events",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h1-icon-6.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "7",
+        "name": "National Awards",
+        "img": "http://www.nicdarkthemes.com/themes/education/wp/demo/kindergarten/wp-content/uploads/sites/8/2016/08/service-color1.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "8",
+        "name": "Certified",
+        "img": "https://educator.qodeinteractive.com/wp-content/uploads/2017/07/h2-icon-2.png",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "key": "9",
+        "name": "Best Teachers",
+        "img": "http://www.nicdarkthemes.com/themes/education/wp/demo/kindergarten/wp-content/uploads/sites/8/2016/08/service-color2.png",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+       "key": "10",
+       "name": "24 H Support" ,
+       "img": "http://www.nicdarkthemes.com/themes/education/wp/demo/kindergarten/wp-content/uploads/sites/8/2016/08/service-color4.png",
+       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]

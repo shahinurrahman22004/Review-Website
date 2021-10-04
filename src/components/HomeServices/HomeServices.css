@@ -1,0 +1,17 @@
+
+.single-area img{
+    width: 60px;
+}
+.single-area {
+    padding: 10px 20px;
+}
+.single-area button {
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: .3s;
+    border: none;
+}
+.single-area button:hover {
+    color: white;
+    background-color: orange;
+}

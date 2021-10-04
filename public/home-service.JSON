@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "name": "GEOGPAPHY",
+        "img": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-1.png",
+        "text": "Geography is the study of places and the relationships between people and their environments."
+    },
+    {
+        "key": "2",
+        "name": "MICROSCOPE",
+        "img": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-3.png",
+        "text": "A microscope is a laboratory instrument used to examine objects that are too small to be seen by the naked eye."
+    },
+    {
+        "key": "3",
+        "name": "ART LABS",
+        "img": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-2.png",
+        "text": "ART Labs introduces tailor-made AR-commerce. A specially designed, effortless, 3D-powered boost for eCommerce."
+    },
+    {
+        "key": "4",
+        "name": "MATHEMATICS",
+        "img": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-4.png",
+        "text": "Mathematicians seek and use patterns to formulate; they resolve the truth or falsity of such by mathematical proof."
+    }
+]

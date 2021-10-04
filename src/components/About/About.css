@@ -1,0 +1,39 @@
+.about-area{
+    background-image: url(../../images/about-us.jpg);
+    background-repeat: no-repeat;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.about-title{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.title-about {
+    font-size: 45px;
+    color: #fff;
+    padding: 0 10%;
+}
+.single{
+    margin: 20px;
+    text-align: center;
+}
+.about-area button {
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.one{
+    background-color: #74cee4;
+}
+.two{
+    background-color: #c389ce;
+}
+.three{
+    background-color: #ec774b;
+}
+.four{
+    background-color: #edbf47;
+}
